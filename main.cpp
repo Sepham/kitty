@@ -19,6 +19,7 @@ int main()
     int count = 0;
     while (true) {
         // Blink LED and wait 0.5 seconds
+        //NEOW MEOW MOW MOEW MEOOOWOWOOWWOWO
         led1 = !led1;
         wait_ms(SLEEP_TIME);
 
